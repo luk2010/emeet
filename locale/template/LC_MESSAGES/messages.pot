@@ -1,0 +1,25 @@
+# emeet demo page
+msgid "EMEET_DEMO1"
+msgstr "Stop meeting."
+
+# EMAIL label
+msgid "EMAIL_LABEL"
+msgstr "Email :"
+
+msgid "EMAIL_PLACEHOLDER"
+msgstr "dupont@gmail.com"
+
+msgid "PASSWORD_LABEL"
+msgstr "Password :"
+
+# PASSWORD_FORGOTTEN
+msgid "PASSWORD_FORGOTTEN"
+msgstr "Password Forgotten ?"
+
+msgid "SIGN_IN_BUTTON"
+msgstr "Sign in"
+
+msgid "LOG_IN_BUTTON"
+msgstr "Login"
+
+

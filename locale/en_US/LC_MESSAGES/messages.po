@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: emeet\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Tronconi Jacques <jacques.tronconi@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# emeet demo page
+msgid "EMEET_DEMO1"
+msgstr "Stop meeting."
+
+# EMAIL label
+msgid "EMAIL_LABEL"
+msgstr "Email :"
+
+msgid "EMAIL_PLACEHOLDER"
+msgstr "dupont@gmail.com"
+
+# PASSWORD_FORGOTTEN
+msgid "PASSWORD_LABEL"
+msgstr "Password :"
+
+# PASSWORD_FORGOTTEN
+msgid "PASSWORD_FORGOTTEN"
+msgstr "Password Forgotten ?"
+
+msgid "SIGN_IN_BUTTON"
+msgstr "Sign in"
+
+msgid "LOG_IN_BUTTON"
+msgstr "Login"
+
+msgid "EMEET_DEMO_MORE"
+msgstr "More"
+
+msgid "EMEET_DEMO_PREVIOUS"
+msgstr "Previous"
+
+msgid "EMEET_DEMO2_TITLE"
+msgstr "Times changed. Adapt."
+
+msgid "EMEET_DEMO2_TEXT"
+msgstr ""
+"Everything you knew has changed. People don't interact the same way they did "
+"by the past. You don't need to know everyone by obscurs ways to look for "
+"your girl."
+
+msgid "EMEET_DEMO3_TITLE"
+msgstr "No money ? No problems."
+
+msgid "EMEET_DEMO3_TEXT"
+msgstr ""
+"Every meeting websites urges you to pay. But we, in eMeet, are convinced "
+"that you shouldn't have to pay because meeting people you might be with is a "
+"part of your life, and you should not have to pay to live your life. So, "
+
+msgid "EMEET_DEMO3_TEXT2"
+msgstr "eMeet is totally free."
+
+msgid "EMEET_DEMO4_P1"
+msgstr "We offers you the possibility to change your life."
+
+msgid "EMEET_DEMO4_P2"
+msgstr "Suscribe now."
