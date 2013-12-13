@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-13 20:39+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: index.php:55
+msgid "Email :"
+msgstr ""
+
+#: index.php:56
+msgid "dupont@gmail.com"
+msgstr ""
+
+#: index.php:58
+msgid "Password :"
+msgstr ""
+
+#: index.php:63
+msgid "Password forgotten ?"
+msgstr ""
+
+#: index.php:67
+msgid "Sign in"
+msgstr ""
+
+#: index.php:68
+msgid "Login"
+msgstr ""
+
+#: index.php:77
+msgid "Stop meeting."
+msgstr ""
+
+#: index.php:81 index.php:95 index.php:110
+msgid "More"
+msgstr ""
+
+#: index.php:87 index.php:101 index.php:116
+msgid "Previous"
+msgstr ""
+
+#: index.php:90
+msgid "Times changed. Adapt."
+msgstr ""
+
+#: index.php:92
+msgid ""
+"Everything you knew has changed. People don't interact the same way they did "
+"by the past. You don't need to know everyone by obscurs ways to look for "
+"your girl."
+msgstr ""
+
+#: index.php:104
+msgid "No money ? No problems."
+msgstr ""
+
+#: index.php:106
+msgid ""
+"Every meeting websites urges you to pay. But we, in eMeet, are convinced "
+"that you shouldn't have to pay because meeting people you might be with is a "
+"part of your life, and you should not have to pay to live your life. So,"
+msgstr ""
+
+#: index.php:107
+msgid "eMeet is totally free."
+msgstr ""
+
+#: index.php:119
+msgid "We offers you the possibility to change your life."
+msgstr ""
+
+#: index.php:120
+msgid "Suscribe now."
+msgstr ""
+
+#: index.php:123
+msgid "To Top"
+msgstr ""

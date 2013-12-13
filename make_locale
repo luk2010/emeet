@@ -1,0 +1,3 @@
+#! /bin/sh
+# Construct the messages.pot template file in locale/messages.pot
+xgettext --from-code=UTF-8 -o locale/messages.pot *.php
